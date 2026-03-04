@@ -1,0 +1,20 @@
+coloque a comida no prato
+esquente  comida no micro-ondas
+coma
+bote o prato na pia
+peg a mochila
+sair de casa
+ande para a esquerda e vire a primeira esquerda
+ande e vire na primeira direita
+ande ate a faixa de pedestre
+atravesse a rua
+ande para a direita ate o ponto de ônibus
+pegue o ônibus e desça no terminal
+saia do terminal
+siga reto ate a estação de trem
+pegue o trem
+desça na estação de São Caetano
+ande para a esquerda
+vire na primeira direita
+siga reto e vire na quarta direita
+ande reto até o SENAI
